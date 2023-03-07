@@ -1,5 +1,5 @@
-let a = 9
-let b = 9
+let a = 4
+let b = 6
 let c = 9
 
 if(a>b){
